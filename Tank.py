@@ -5,7 +5,7 @@ from scipy.optimize import brentq
 from scipy.integrate import odeint
 from matplotlib.pyplot import plot, show
 
-# Initial Variables (in MKS units)
+# Initial Variables (in mKS units)
 D0 = 1
 h0 = 2
 d = 0.02
